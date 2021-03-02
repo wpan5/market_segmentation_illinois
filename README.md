@@ -5,7 +5,10 @@
 
 Data: Access and Proximity to Grocery Store (Food Environment Atlas)
 
+https://www.ers.usda.gov/data-products/food-environment-atlas/
+
 - 102 rows (counties), 41 columns
+
 
 Preprocessing for clustering:
 - Feature scaling
@@ -19,7 +22,7 @@ Other clustering methods:
 
 Using SSE, we have identified a K = 18
 
-Using the folium package, We can visualize 10 clusters of counties on the map of Illinois
+Using the folium package, we can visualize 10 clusters of counties on the map of Illinois
 
 
 Two example metrics are below:
